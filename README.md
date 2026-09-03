@@ -327,14 +327,14 @@ Below is the complete **13-page Project Proposal** submitted for the **2024 e-IC
 
 ### Team G7 — TýrNav
 
-| Member | Role / Country |
-| :--- | :--- |
-| **Muhtasim Zaman Mahim** | International Student (Bangladesh) |
-| **Nazmus Sakib Mouin** | International Student (Bangladesh) |
-| **Chimin Choi** | Korean Student (Republic of Korea) |
-| **Huiyoung Jeong** | Korean Student (Republic of Korea) |
+| Member | Role | High School | Country |
+| :--- | :--- | :--- | :--- |
+| **Muhtasim Zaman Mahim** | Team Lead & App Developer | Dhaka Residential Model College | Bangladesh |
+| **Nazmus Sakib Mouin** | App Developer | Dhaka Residential Model College | Bangladesh |
+| **Chimin Choi** | Documentation & Planning | Chungnam Samsung Academy | South Korea |
+| **Huiyoung Jeong** | UI/UX Designer | Chungnam Samsung Academy | South Korea |
 
-- **Organizer:** Ministry of Education of the Republic of Korea & Institute of APEC Collaborative Education (IACE)
+- **Organizer:** Ministry of Education of the Republic of Korea & Korea Education Frontier Association (KEFA)
 - **Contest:** The 14th e-ICON World Contest (2024)
 - **Award:** 🏆 **1st Prize — Minister of Education Award (교육부 장관상)**
 - **United Nations SDG:** Goal #8 — Decent Work and Economic Growth
