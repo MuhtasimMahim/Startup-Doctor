@@ -331,7 +331,7 @@ Below is the complete **13-page Project Proposal** submitted for the **2024 e-IC
 | :--- | :--- | :--- | :--- |
 | **Muhtasim Zaman Mahim** | Team Lead & App Developer | Dhaka Residential Model College | Bangladesh |
 | **Nazmus Sakib Mouin** | App Developer | Dhaka Residential Model College | Bangladesh |
-| **Awsaf Onom** | UI/UX Designer | Legends International School | Bangladesh |
+| **Awsaf Onom** | Post Design | Legends International School | Bangladesh |
 | **Chimin Choi** | Documentation & Planning | Chungnam Samsung Academy | South Korea |
 | **Huiyoung Jeong** | UI/UX Designer | Chungnam Samsung Academy | South Korea |
 
